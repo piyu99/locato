@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460111912768",
+    "firebase_url": "https://maptest-a7ac2.firebaseio.com",
+    "project_id": "maptest-a7ac2",
+    "storage_bucket": "maptest-a7ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460111912768:android:0361d7f916f98b52d0e4a5",
+        "android_client_info": {
+          "package_name": "com.example.locato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460111912768-o9egtal9bfl5mp67pi4m4icj0dnska17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locato",
+            "certificate_hash": "5353fdd60da12646f40334aa9edd7020d20bc639"
+          }
+        },
+        {
+          "client_id": "460111912768-p8v7h8t9ji2pufiooc9p0d66j95l7sro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQKJGVgDfpvFQz3wCcQ-q5T4sirirmbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460111912768-p8v7h8t9ji2pufiooc9p0d66j95l7sro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
